@@ -11,7 +11,7 @@ One mistake that society makes is:  It assumes figures meeting expectations in o
 Some ways to defeat the society's autocompletion game would be: one should at least speak for the underprivileged, portray sharing common features with them in conceivable ways to the society,  and try to spread diversity through ways that do not necessarily contradict with social norms, but are at least diverse enough to expand their tolerance.
 
 
-===============================================================================================================
+=======================
 * One question that could arise is: I assume that the privileged people should be convinced with the motives of the underprivileged, enough, to want to represent them. I believe they need not. They only need to do what they believe is a good representation of diversity in their fields. This movement from a still position is enough to make the norm-change everybody needs.
 
 * If you believe the A student example is a false analogy, I would argue that the same logic followed by the instructor incentivizes the normal-distribution of the grades as a metric for how hard an exam is. A metric that is used in almost all universities. It builds on the fact that if no one could score a good enough grade on the test, this means it is probably harder than usual. This implies that, if the A-students (students usually at the higher scoring edge of the normal distribution) think something is hard,  it's probably actually hard, only waiting for the normal-distribution curve to prove it later; after the assessment is taken. This assumption: that the best-performing is consistently so, is what must be used in the game to play against society.
