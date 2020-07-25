@@ -8,8 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Day-to-day ethics and coding. <br>
+These are my current thoughts, but I make no commitments to them;  I change everyday.<br>
+
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Care to chat? Mail me. I am still not as busy as I shall be.
+[wmustafaawad@gmail.com](mailto:wmustafaawad@gmail.com)
