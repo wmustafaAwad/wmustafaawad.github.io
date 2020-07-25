@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Fresh graduate. If my life where a novel, main themes would be: kindness, optimization, originality, reasoning, and learning.
 
-### More Information
+### What this blog is about
 
 Day-to-day ethics and coding. <br>
 These are my current thoughts, but I make no commitments to them;  I change everyday.<br>
